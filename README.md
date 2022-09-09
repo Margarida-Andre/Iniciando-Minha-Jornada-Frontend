@@ -1,16 +1,19 @@
-# Meu-Cronograma-Frontend
+# Iniciando-Minha-Jornada-Frontend
 
-Este é um cronograma que tem como objectivo auxiliar pessoas que querem iniciar sua jornada na área de front-end.
-Comece por aprender tecnologias base como: HTML, CSS e JavaScript.
+Este é um conjunto de trilhas selecionadas na plataforma Rockseat, tem como objectivo auxiliar pessoas passo a passo que querem iniciar sua jornada na área de front-end. Não pule etapas, comece por aprender tecnologias base como: HTML, CSS e JavaScript.
 
 # Pré-requisitos:
 
-- Tenha instalado em sua máquina o IDE Vs code (IDE que será usado durante as aulas), baixe aqui: https://code.visualstudio.com/download
-- <img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+- Tenha instalado em sua máquina o IDE Visual Studio Code (IDE que será usado durante as aulas), baixe aqui: https://code.visualstudio.com/download
+<div align="center">
+<img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</div>
 
-Crie uma conta na plataforma da rockseat, aqui: https://app.rocketseat.com.br/signup
+- Crie uma conta na plataforma da rockseat, aqui: https://app.rocketseat.com.br/signup
 
-- <img height="500" width="500" src="https://github.com/Margarida-Andre/Meu-Cronograma-Frontend/blob/main/image.png" />
+<div align="center">
+<img height="500" width="1000" src="https://github.com/Margarida-Andre/Meu-Cronograma-Frontend/blob/main/image.png" />
+</div>
 
 # Módulo I - Ambiente Dev
 
@@ -99,9 +102,10 @@ Crie uma conta na plataforma da rockseat, aqui: https://app.rocketseat.com.br/si
 
 # Sugestões e Recomendações
 
-📌 Organize essas tarefas em uma plataforma de gestão de projecto, como notion, trello, jira e etc. E defina um tempo
-para cada trilha a ser estudada conforme suas capacidades.
+📌 Antes de começar seus estudos, organize essas tarefas em uma plataforma de gestão de projecto, como: notion, trello, jira e etc.
 
-📌 Faça um controle das suas tarefas marcando as tarefas pretendidas, as que estão em progresso e as tarefas feitas.
+📌 Defina um tempo para cada trilha a ser estudada conforme suas capacidades.
 
-📌 Crie uma conta no github e adicione cada prática que fizer em cada trilha.
+📌 Faça um controle das trilhas estudadas, marcando: as trilhas que se pretende estudar (início), as trilhas que estão a ser estudadas (progresso) e as trilhas aprendidas (feito).
+
+📌 Crie uma conta no github e adicione cada prática feita em cada trilha.
