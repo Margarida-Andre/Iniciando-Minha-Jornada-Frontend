@@ -1,18 +1,18 @@
 # Iniciando-Minha-Jornada-Frontend
 
-Este é um conjunto de trilhas selecionadas na plataforma Rockseat, tem como objectivo auxiliar pessoas passo a passo que querem iniciar sua jornada na área de front-end. Não pule etapas, comece por aprender tecnologias base como: HTML, CSS e JavaScript.
+Este é um conjunto de trilhas selecionadas na plataforma Rockseat, tem como objectivo auxiliar pessoas passo a passo,que pretendem iniciar sua jornada na área de front-end. Recomendo não pular etapas, comece por aprender tecnologias base como: HTML, CSS e JavaScript.
 
 # Pré-requisitos:
 
-- Tenha instalado em sua máquina o IDE Visual Studio Code (IDE que será usado durante as aulas), baixe aqui: https://code.visualstudio.com/download
+- Tenha instalado em sua máquina o IDE Visual Studio Code (IDE que será usado durante as aulas, não te preocupes, terá a oportunidade de aprender sobre o IDE durante as aulas), baixe-o aqui: https://code.visualstudio.com/download
 <div align="center">
 <img height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-- Crie uma conta na plataforma da rockseat, aqui: https://app.rocketseat.com.br/signup
+- Crie uma conta na plataforma da Rockseat, aqui: https://app.rocketseat.com.br/signup
 
 <div align="center">
-<img height="500" width="1000" src="https://github.com/Margarida-Andre/Meu-Cronograma-Frontend/blob/main/image.png" />
+<img height="500" width="1100" src="https://github.com/Margarida-Andre/Meu-Cronograma-Frontend/blob/main/image.png" />
 </div>
 
 # Módulo I - Ambiente Dev
@@ -102,10 +102,10 @@ Este é um conjunto de trilhas selecionadas na plataforma Rockseat, tem como obj
 
 # Sugestões e Recomendações
 
-📌 Antes de começar seus estudos, organize essas tarefas em uma plataforma de gestão de projecto, como: notion, trello, jira e etc.
+📌 Antes de começar seus estudos, organize essas trilhas como tarefas em uma plataforma de gestão de projecto, como: notion, trello, jira ou em uma outra ferramenta que melhor lhe facilitar.
 
 📌 Defina um tempo para cada trilha a ser estudada conforme suas capacidades.
 
 📌 Faça um controle das trilhas estudadas, marcando: as trilhas que se pretende estudar (início), as trilhas que estão a ser estudadas (progresso) e as trilhas aprendidas (feito).
 
-📌 Crie uma conta no github e adicione cada prática feita em cada trilha.
+📌 Crie uma conta no github e adicione suas práticas feitas em cada trilha (vai criando seu pequeno portfólio).
