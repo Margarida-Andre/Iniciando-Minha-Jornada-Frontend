@@ -12,7 +12,7 @@ Este é um conjunto de trilhas selecionadas na plataforma Rockseat, tem como obj
 - Crie uma conta na plataforma da Rockseat, aqui: https://app.rocketseat.com.br/signup
 
 <div align="center">
-<img height="500" width="1100" src="https://github.com/Margarida-Andre/Meu-Cronograma-Frontend/blob/main/image.png" />
+<img height="500" width="1100" src="https://github.com/Margarida-Andre/Meu-Cronograma-Frontend/blob/main/signup.png" />
 </div>
 
 # Módulo I - Ambiente Dev
